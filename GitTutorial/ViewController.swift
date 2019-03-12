@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         print("Git turtorial")
         print("Hi there, this is brach develop")
+        print("Hello, this is commit to remote")
     }
 
 
