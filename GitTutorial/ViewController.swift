@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("Git turtorial")
         print("Hi there, this is brach develop")
         print("Hello, this is commit to remote")
+        print("commited to remote")
     }
 
 
